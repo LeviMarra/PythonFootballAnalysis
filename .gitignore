@@ -1,0 +1,18 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw data files
+*.csv
+*.xlsx
+*.parquet
+data/
+football_analysis/data/*.csv
+
+# Zip checkpoint folders
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
