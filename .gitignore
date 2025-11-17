@@ -7,8 +7,6 @@ __pycache__/
 *.csv
 *.xlsx
 *.parquet
-data/
-football_analysis/data/*.csv
 
 # Zip checkpoint folders
 .ipynb_checkpoints/
