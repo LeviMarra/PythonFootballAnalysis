@@ -65,7 +65,7 @@ football-analytics/
 ├── imgs/                               # Visualizations and banners
 ├── notebooks/
 │   ├── data_football_eda.ipynb/        # ✅ Initial basic analysis
-│   ├── injuries_analysis.ipynb/        # ✅ Complete injuries analytics
+│   ├── injuries_eda.ipynb/             # ✅ Complete injuries analytics
 │   ├── performance_analysis.ipynb/     # 🔄 In development
 │   ├── market_value_analysis.ipynb/    # 📋 Planned
 │   └── brazilian_analysis.ipynb/       # 📋 Planned
